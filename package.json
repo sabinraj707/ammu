@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/sabinraj707/myportflio",
+  "homepage": "https://github.com/sabinraj707/ammu",
   "name": "react-portfolio",
   "version": "2.0",
   "private": true,
@@ -27,8 +27,6 @@
     "eject": "react-scripts eject",
     "deploy": "gh-pages -b master -d build",
     "predeploy": "npm run build"
-
-
   },
   "eslintConfig": {
     "extends": [
